@@ -1,5 +1,5 @@
 /* ============================================================
-   JIMOTHY HOOD — $JIMOHOOD
+   Robinhood Doge — $BLUE
    Falling leaves, scroll reveals, count-up numbers,
    arrow flyby, copy CA, mobile nav.
    ============================================================ */
