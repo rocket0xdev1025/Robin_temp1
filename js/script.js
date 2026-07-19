@@ -1,5 +1,5 @@
 /* ============================================================
-   Robinhood Doge — $BLUE
+   $BLUE — Robinhood's office Doge, circa 2015
    Falling leaves, scroll reveals, count-up numbers,
    arrow flyby, copy CA, mobile nav.
    ============================================================ */
@@ -178,10 +178,10 @@
     }
     if (navigator.clipboard) {
       navigator.clipboard.writeText(text).then(function () {
-        showToast("Copied to quiver! 🏹");
+        showToast("Copied to collar! 🐕");
       });
     } else {
-      showToast("CA coming soon! 🦝");
+      showToast("CA coming soon! 🐕");
     }
   });
 
